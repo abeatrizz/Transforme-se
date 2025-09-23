@@ -1,0 +1,736 @@
+{
+  "quiz": {
+    "Present Simple": [
+      {
+        "id": 1,
+        "question": "She ___ to school every day.",
+        "options": [
+          {"letter": "A", "text": "go", "explanation": "Wrong, because with he/she/it, the verb needs -s."},
+          {"letter": "B", "text": "goes", "explanation": "Correct, proper form for she in present simple."},
+          {"letter": "C", "text": "is going", "explanation": "Wrong, present continuous, action happening now."},
+          {"letter": "D", "text": "going", "explanation": "Wrong, incomplete; missing auxiliary verb."},
+          {"letter": "E", "text": "will go", "explanation": "Wrong, future tense, not present."}
+        ],
+        "correctAnswer": "B"
+      },
+      {
+        "id": 2,
+        "question": "They ___ football on Sundays.",
+        "options": [
+          {"letter": "A", "text": "play", "explanation": "Correct, present simple for they."},
+          {"letter": "B", "text": "plays", "explanation": "Wrong, “plays” is for he/she/it."},
+          {"letter": "C", "text": "playing", "explanation": "Wrong, missing auxiliary verb for continuous."},
+          {"letter": "D", "text": "is playing", "explanation": "Wrong, present continuous, not for routines."},
+          {"letter": "E", "text": "will play", "explanation": "Wrong, future tense, not present."}
+        ],
+        "correctAnswer": "A"
+      },
+      {
+        "id": 3,
+        "question": "My brother ___ like pizza.",
+        "options": [
+          {"letter": "A", "text": "don’t", "explanation": "Wrong, “don’t” is for I/you/we/they."},
+          {"letter": "B", "text": "isn’t", "explanation": "Wrong, negative of “to be”, not correct here."},
+          {"letter": "C", "text": "doesn’t", "explanation": "Correct, negative form for he/she/it in present simple."},
+          {"letter": "D", "text": "not", "explanation": "Wrong, cannot be used alone."},
+          {"letter": "E", "text": "didn’t", "explanation": "Wrong, past tense, not present."}
+        ],
+        "correctAnswer": "C"
+      },
+      {
+        "id": 4,
+        "question": "He ___ TV in the evening.",
+        "options": [
+          {"letter": "A", "text": "watch", "explanation": "Wrong, present simple with he/she/it needs -s."},
+          {"letter": "B", "text": "watches", "explanation": "Correct, proper present simple form."},
+          {"letter": "C", "text": "is watching", "explanation": "Wrong, present continuous, not routine."},
+          {"letter": "D", "text": "watched", "explanation": "Wrong, past tense."},
+          {"letter": "E", "text": "will watch", "explanation": "Wrong, future tense."}
+        ],
+        "correctAnswer": "B"
+      },
+      {
+        "id": 5,
+        "question": "We ___ lunch at 12 o’clock every day.",
+        "options": [
+          {"letter": "A", "text": "has", "explanation": "Wrong, “we” uses have, not has."},
+          {"letter": "B", "text": "have", "explanation": "Correct, proper form for present simple with we."},
+          {"letter": "C", "text": "having", "explanation": "Wrong, incomplete; continuous tense needs auxiliary."},
+          {"letter": "D", "text": "is having", "explanation": "Wrong, present continuous, not routine."},
+          {"letter": "E", "text": "will have", "explanation": "Wrong, future tense."}
+        ],
+        "correctAnswer": "B"
+      },
+      {
+        "id": 6,
+        "question": "She ___ coffee every morning.",
+        "options": [
+          {"letter": "A", "text": "drink", "explanation": "Wrong, with she verb needs -s."},
+          {"letter": "B", "text": "drinks", "explanation": "Correct, present simple form."},
+          {"letter": "C", "text": "is drinking", "explanation": "Wrong, present continuous, not daily habit."},
+          {"letter": "D", "text": "drank", "explanation": "Wrong, past tense."},
+          {"letter": "E", "text": "will drink", "explanation": "Wrong, future tense."}
+        ],
+        "correctAnswer": "B"
+      },
+      {
+        "id": 7,
+        "question": "The cat ___ on the sofa every night.",
+        "options": [
+          {"letter": "A", "text": "sleeps", "explanation": "Correct, present simple for he/she/it."},
+          {"letter": "B", "text": "sleep", "explanation": "Wrong, missing -s for third person singular."},
+          {"letter": "C", "text": "is sleeping", "explanation": "Wrong, present continuous, action now, not routine."},
+          {"letter": "D", "text": "slept", "explanation": "Wrong, past tense."},
+          {"letter": "E", "text": "will sleep", "explanation": "Wrong, future tense."}
+        ],
+        "correctAnswer": "A"
+      },
+      {
+        "id": 8,
+        "question": "I ___ English at school.",
+        "options": [
+          {"letter": "A", "text": "study", "explanation": "Correct, present simple for I."},
+          {"letter": "B", "text": "studies", "explanation": "Wrong, “studies” is for he/she/it."},
+          {"letter": "C", "text": "studying", "explanation": "Wrong, incomplete without auxiliary."},
+          {"letter": "D", "text": "am studying", "explanation": "Wrong, present continuous, not simple routine."},
+          {"letter": "E", "text": "will study", "explanation": "Wrong, future tense."}
+        ],
+        "correctAnswer": "A"
+      },
+      {
+        "id": 9,
+        "question": "He ___ his homework in the evening.",
+        "options": [
+          {"letter": "A", "text": "do", "explanation": "Wrong, third person singular needs does."},
+          {"letter": "B", "text": "does", "explanation": "Correct, present simple for he/she/it."},
+          {"letter": "C", "text": "doing", "explanation": "Wrong, incomplete; needs auxiliary."},
+          {"letter": "D", "text": "did", "explanation": "Wrong, past tense."},
+          {"letter": "E", "text": "will do", "explanation": "Wrong, future tense."}
+        ],
+        "correctAnswer": "B"
+      },
+      {
+        "id": 10,
+        "question": "They ___ to the park on Sundays.",
+        "options": [
+          {"letter": "A", "text": "goes", "explanation": "Wrong, “they” does not take -s."},
+          {"letter": "B", "text": "go", "explanation": "Correct, present simple plural."},
+          {"letter": "C", "text": "going", "explanation": "Wrong, incomplete."},
+          {"letter": "D", "text": "is going", "explanation": "Wrong, present continuous for now, not routine."},
+          {"letter": "E", "text": "will go", "explanation": "Wrong, future tense."}
+        ],
+        "correctAnswer": "B"
+      }
+    ],
+    "Present Continuous": [
+      {
+        "id": 1,
+        "question": "Right now, he ___ TV.",
+        "options": [
+          {"letter": "A", "text": "watch", "explanation": "Wrong, present simple does not match “right now”."},
+          {"letter": "B", "text": "is watching", "explanation": "Correct, present continuous for action happening now."},
+          {"letter": "C", "text": "watches", "explanation": "Wrong, present simple; routine, not current action."},
+          {"letter": "D", "text": "watched", "explanation": "Wrong, past tense."},
+          {"letter": "E", "text": "will watch", "explanation": "Wrong, future tense."}
+        ],
+        "correctAnswer": "B"
+      },
+      {
+        "id": 2,
+        "question": "They ___ to music at the moment.",
+        "options": [
+          {"letter": "A", "text": "listen", "explanation": "Wrong, present simple; “at the moment” requires continuous."},
+          {"letter": "B", "text": "listens", "explanation": "Wrong, singular only (he/she/it)."},
+          {"letter": "C", "text": "listening", "explanation": "Wrong, missing auxiliary verb."},
+          {"letter": "D", "text": "are listening", "explanation": "Correct, present continuous for now."},
+          {"letter": "E", "text": "will listen", "explanation": "Wrong, future tense."}
+        ],
+        "correctAnswer": "D"
+      },
+      {
+        "id": 3,
+        "question": "She ___ her homework now.",
+        "options": [
+          {"letter": "A", "text": "does", "explanation": "Wrong, present simple; “now” requires continuous."},
+          {"letter": "B", "text": "do", "explanation": "Wrong, incorrect form for she."},
+          {"letter": "C", "text": "is doing", "explanation": "Correct, present continuous."},
+          {"letter": "D", "text": "doing", "explanation": "Wrong, missing auxiliary verb."},
+          {"letter": "E", "text": "will do", "explanation": "Wrong, future tense."}
+        ],
+        "correctAnswer": "C"
+      },
+      {
+        "id": 4,
+        "question": "I ___ a book at this moment.",
+        "options": [
+          {"letter": "A", "text": "read", "explanation": "Wrong, present simple; “at this moment” requires continuous."},
+          {"letter": "B", "text": "is reading", "explanation": "Wrong, “I” uses am not is."},
+          {"letter": "C", "text": "am reading", "explanation": "Correct, present continuous."},
+          {"letter": "D", "text": "reading", "explanation": "Wrong, incomplete; needs auxiliary."},
+          {"letter": "E", "text": "will read", "explanation": "Wrong, future tense."}
+        ],
+        "correctAnswer": "C"
+      },
+      {
+        "id": 5,
+        "question": "We ___ lunch together right now.",
+        "options": [
+          {"letter": "A", "text": "eat", "explanation": "Wrong, present simple; “right now” needs continuous."},
+          {"letter": "B", "text": "eats", "explanation": "Wrong, singular only."},
+          {"letter": "C", "text": "are eating", "explanation": "Correct, present continuous."},
+          {"letter": "D", "text": "eating", "explanation": "Wrong, missing auxiliary."},
+          {"letter": "E", "text": "will eat", "explanation": "Wrong, future tense."}
+        ],
+        "correctAnswer": "C"
+      },
+      {
+        "id": 6,
+        "question": "He ___ in the park at the moment.",
+        "options": [
+          {"letter": "A", "text": "walk", "explanation": "Wrong, present simple; “at the moment” needs continuous."},
+          {"letter": "B", "text": "walks", "explanation": "Wrong, present simple; routine, not now."},
+          {"letter": "C", "text": "is walking", "explanation": "Correct, present continuous for current action."},
+          {"letter": "D", "text": "walking", "explanation": "Wrong, missing auxiliary verb."},
+          {"letter": "E", "text": "will walk", "explanation": "Wrong, future tense."}
+        ],
+        "correctAnswer": "C"
+      },
+      {
+        "id": 7,
+        "question": "The kids ___ outside now.",
+        "options": [
+          {"letter": "A", "text": "play", "explanation": "Wrong, present simple; “now” requires continuous."},
+          {"letter": "B", "text": "plays", "explanation": "Wrong, singular only."},
+          {"letter": "C", "text": "are playing", "explanation": "Correct, present continuous."},
+          {"letter": "D", "text": "playing", "explanation": "Wrong, missing auxiliary verb."},
+          {"letter": "E", "text": "will play", "explanation": "Wrong, future tense."}
+        ],
+        "correctAnswer": "C"
+      },
+      {
+        "id": 8,
+        "question": "She ___ on the phone at the moment.",
+        "options": [
+          {"letter": "A", "text": "talks", "explanation": "Wrong, present simple; “at the moment” requires continuous."},
+          {"letter": "B", "text": "is talking", "explanation": "Correct, present continuous."},
+          {"letter": "C", "text": "talk", "explanation": "Wrong, present simple."},
+          {"letter": "D", "text": "talking", "explanation": "Wrong, missing auxiliary."},
+          {"letter": "E", "text": "will talk", "explanation": "Wrong, future tense."}
+        ],
+        "correctAnswer": "B"
+      },
+      {
+        "id": 9,
+        "question": "I ___ my homework now.",
+        "options": [
+          {"letter": "A", "text": "do", "explanation": "Wrong, present simple; “now” requires continuous."},
+          {"letter": "B", "text": "am doing", "explanation": "Correct, present continuous."},
+          {"letter": "C", "text": "does", "explanation": "Wrong, singular only for he/she/it."},
+          {"letter": "D", "text": "doing", "explanation": "Wrong, missing auxiliary."},
+          {"letter": "E", "text": "will do", "explanation": "Wrong, future tense."}
+        ],
+        "correctAnswer": "B"
+      },
+      {
+        "id": 10,
+        "question": "They ___ soccer in the garden at this moment.",
+        "options": [
+          {"letter": "A", "text": "play", "explanation": "Wrong, present simple; “at this moment” requires continuous."},
+          {"letter": "B", "text": "plays", "explanation": "Wrong, singular only."},
+          {"letter": "C", "text": "are playing", "explanation": "Correct, present continuous."},
+          {"letter": "D", "text": "playing", "explanation": "Wrong, missing auxiliary."},
+          {"letter": "E", "text": "will play", "explanation": "Wrong, future tense."}
+        ],
+        "correctAnswer": "C"
+      }
+    ],
+    "Future (Will)": [
+      {
+        "id": 1,
+        "question": "I think it ___ tomorrow.",
+        "options": [
+          {"letter": "A", "text": "rains", "explanation": "Wrong, present simple; future prediction needs “will”."},
+          {"letter": "B", "text": "raining", "explanation": "Wrong, incomplete; missing auxiliary."},
+          {"letter": "C", "text": "rained", "explanation": "Wrong, past tense."},
+          {"letter": "D", "text": "will rain", "explanation": "Correct, future tense for prediction."},
+          {"letter": "E", "text": "rain", "explanation": "Wrong, incomplete; needs auxiliary."}
+        ],
+        "correctAnswer": "D"
+      },
+      {
+        "id": 2,
+        "question": "She ___ help you with the project.",
+        "options": [
+          {"letter": "A", "text": "is", "explanation": "Wrong, verb “to be” doesn’t fit."},
+          {"letter": "B", "text": "does", "explanation": "Wrong, present tense, not future."},
+          {"letter": "C", "text": "will", "explanation": "Correct, future tense."},
+          {"letter": "D", "text": "has", "explanation": "Wrong, tense incorrect."},
+          {"letter": "E", "text": "can", "explanation": "Wrong, possibility, not future."}
+        ],
+        "correctAnswer": "C"
+      },
+      {
+        "id": 3,
+        "question": "They ___ arrive late tonight.",
+        "options": [
+          {"letter": "A", "text": "will", "explanation": "Correct, future tense."},
+          {"letter": "B", "text": "are", "explanation": "Wrong, present tense."},
+          {"letter": "C", "text": "does", "explanation": "Wrong, singular only."},
+          {"letter": "D", "text": "has", "explanation": "Wrong, incorrect tense."},
+          {"letter": "E", "text": "is", "explanation": "Wrong, singular only."}
+        ],
+        "correctAnswer": "A"
+      },
+      {
+        "id": 4,
+        "question": "I ___ visit my grandparents next weekend.",
+        "options": [
+          {"letter": "A", "text": "visit", "explanation": "Wrong, present simple; future needs “will”."},
+          {"letter": "B", "text": "visits", "explanation": "Wrong, present simple third person singular only."},
+          {"letter": "C", "text": "am visiting", "explanation": "Wrong, present continuous is possible for planned future, but here context is prediction."},
+          {"letter": "D", "text": "will visit", "explanation": "Correct, simple future."},
+          {"letter": "E", "text": "visited", "explanation": "Wrong, past tense."}
+        ],
+        "correctAnswer": "D"
+      },
+      {
+        "id": 5,
+        "question": "He ___ be late for the meeting.",
+        "options": [
+          {"letter": "A", "text": "is", "explanation": "Wrong, present tense."},
+          {"letter": "B", "text": "will", "explanation": "Correct, expresses future possibility."},
+          {"letter": "C", "text": "does", "explanation": "Wrong, singular present."},
+          {"letter": "D", "text": "has", "explanation": "Wrong, incorrect tense."},
+          {"letter": "E", "text": "was", "explanation": "Wrong, past tense."}
+        ],
+        "correctAnswer": "B"
+      },
+      {
+        "id": 6,
+        "question": "We ___ finish the project on time.",
+        "options": [
+          {"letter": "A", "text": "finish", "explanation": "Wrong, present simple; future needs “will”."},
+          {"letter": "B", "text": "finishes", "explanation": "Wrong, third person singular only."},
+          {"letter": "C", "text": "will finish", "explanation": "Correct, future tense."},
+          {"letter": "D", "text": "are finishing", "explanation": "Wrong, present continuous; not prediction."},
+          {"letter": "E", "text": "finished", "explanation": "Wrong, past tense."}
+        ],
+        "correctAnswer": "C"
+      },
+      {
+        "id": 7,
+        "question": "They ___ travel to Paris next summer.",
+        "options": [
+          {"letter": "A", "text": "travels", "explanation": "Wrong, third person singular only."},
+          {"letter": "B", "text": "will travel", "explanation": "Correct, future tense."},
+          {"letter": "C", "text": "are traveling", "explanation": "Wrong, continuous future is not intended here."},
+          {"letter": "D", "text": "travel", "explanation": "Wrong, present simple; future prediction needs “will”."},
+          {"letter": "E", "text": "traveled", "explanation": "Wrong, past tense."}
+        ],
+        "correctAnswer": "B"
+      },
+      {
+        "id": 8,
+        "question": "She thinks it ___ be difficult.",
+        "options": [
+          {"letter": "A", "text": "is", "explanation": "Wrong, present tense; prediction needs “will”."},
+          {"letter": "B", "text": "will", "explanation": "Correct, simple future."},
+          {"letter": "C", "text": "was", "explanation": "Wrong, past tense."},
+          {"letter": "D", "text": "does", "explanation": "Wrong, present tense."},
+          {"letter": "E", "text": "has", "explanation": "Wrong, incorrect tense."}
+        ],
+        "correctAnswer": "B"
+      },
+      {
+        "id": 9,
+        "question": "I ___ call you later.",
+        "options": [
+          {"letter": "A", "text": "call", "explanation": "Wrong, present tense; future needs “will”."},
+          {"letter": "B", "text": "will call", "explanation": "Correct, expresses future intention."},
+          {"letter": "C", "text": "calls", "explanation": "Wrong, third person singular only."},
+          {"letter": "D", "text": "am calling", "explanation": "Wrong, present continuous; less common for future intention."},
+          {"letter": "E", "text": "called", "explanation": "Wrong, past tense."}
+        ],
+        "correctAnswer": "B"
+      },
+      {
+        "id": 10,
+        "question": "The teacher ___ explain the lesson tomorrow.",
+        "options": [
+          {"letter": "A", "text": "explains", "explanation": "Wrong, present simple; “tomorrow” requires future."},
+          {"letter": "B", "text": "will explain", "explanation": "Correct, future tense."},
+          {"letter": "C", "text": "explaining", "explanation": "Wrong, incomplete."},
+          {"letter": "D", "text": "explained", "explanation": "Wrong, past tense."},
+          {"letter": "E", "text": "is explaining", "explanation": "Wrong, present continuous; “tomorrow” indicates future."}
+        ],
+        "correctAnswer": "B"
+      }
+    ],
+    "WH Questions": [
+      {
+        "id": 1,
+        "question": "___ is your favorite color?",
+        "options": [
+          {"letter": "A", "text": "When", "explanation": "Wrong, asking about time, not color."},
+          {"letter": "B", "text": "Where", "explanation": "Wrong, asking about place."},
+          {"letter": "C", "text": "Who", "explanation": "Wrong, asking about person."},
+          {"letter": "D", "text": "What", "explanation": "Correct, asking for thing/answer (color)."},
+          {"letter": "E", "text": "Why", "explanation": "Wrong, asking for reason."}
+        ],
+        "correctAnswer": "D"
+      },
+      {
+        "id": 2,
+        "question": "___ are you from?",
+        "options": [
+          {"letter": "A", "text": "Who", "explanation": "Wrong, asking about person."},
+          {"letter": "B", "text": "Where", "explanation": "Correct, asking about place/origin."},
+          {"letter": "C", "text": "When", "explanation": "Wrong, asking about time."},
+          {"letter": "D", "text": "Why", "explanation": "Wrong, asking about reason."},
+          {"letter": "E", "text": "What", "explanation": "Wrong, asking for thing."}
+        ],
+        "correctAnswer": "B"
+      },
+      {
+        "id": 3,
+        "question": "___ do you study English?",
+        "options": [
+          {"letter": "A", "text": "Why", "explanation": "Correct, asking reason/motivation."},
+          {"letter": "B", "text": "Where", "explanation": "Wrong, asking about place."},
+          {"letter": "C", "text": "Who", "explanation": "Wrong, asking about person."},
+          {"letter": "D", "text": "What", "explanation": "Wrong, asking for thing."},
+          {"letter": "E", "text": "When", "explanation": "Wrong, asking about time."}
+        ],
+        "correctAnswer": "A"
+      },
+      {
+        "id": 4,
+        "question": "___ is your best friend?",
+        "options": [
+          {"letter": "A", "text": "Who", "explanation": "Correct, asking about person."},
+          {"letter": "B", "text": "What", "explanation": "Wrong, asking for thing."},
+          {"letter": "C", "text": "Where", "explanation": "Wrong, asking about place."},
+          {"letter": "D", "text": "When", "explanation": "Wrong, asking about time."},
+          {"letter": "E", "text": "Why", "explanation": "Wrong, asking about reason."}
+        ],
+        "correctAnswer": "A"
+      },
+      {
+        "id": 5,
+        "question": "___ are you doing tomorrow?",
+        "options": [
+          {"letter": "A", "text": "What", "explanation": "Correct, asking about action/plan."},
+          {"letter": "B", "text": "Who", "explanation": "Wrong, asking about person."},
+          {"letter": "C", "text": "Where", "explanation": "Wrong, asking about place."},
+          {"letter": "D", "text": "Why", "explanation": "Wrong, asking about reason."},
+          {"letter": "E", "text": "When", "explanation": "Wrong, asking about time."}
+        ],
+        "correctAnswer": "A"
+      },
+      {
+        "id": 6,
+        "question": "___ is knocking at the door?",
+        "options": [
+          {"letter": "A", "text": "Who", "explanation": "Correct, asking about person."},
+          {"letter": "B", "text": "What", "explanation": "Wrong, asking for thing."},
+          {"letter": "C", "text": "Where", "explanation": "Wrong, asking about place."},
+          {"letter": "D", "text": "When", "explanation": "Wrong, asking about time."},
+          {"letter": "E", "text": "Why", "explanation": "Wrong, asking about reason."}
+        ],
+        "correctAnswer": "A"
+      },
+      {
+        "id": 7,
+        "question": "___ did you go on vacation?",
+        "options": [
+          {"letter": "A", "text": "Who", "explanation": "Wrong, asking person."},
+          {"letter": "B", "text": "What", "explanation": "Wrong, asking thing."},
+          {"letter": "C", "text": "Where", "explanation": "Correct, asking place."},
+          {"letter": "D", "text": "When", "explanation": "Could also be correct if context asks for time, but original intent is place."},
+          {"letter": "E", "text": "Why", "explanation": "Wrong, asking reason."}
+        ],
+        "correctAnswer": "C"
+      },
+      {
+        "id": 8,
+        "question": "___ are you so happy?",
+        "options": [
+          {"letter": "A", "text": "Who", "explanation": "Wrong, asking person."},
+          {"letter": "B", "text": "What", "explanation": "Wrong, asking thing."},
+          {"letter": "C", "text": "Where", "explanation": "Wrong, asking place."},
+          {"letter": "D", "text": "Why", "explanation": "Correct, asking reason."},
+          {"letter": "E", "text": "When", "explanation": "Wrong, asking time."}
+        ],
+        "correctAnswer": "D"
+      },
+      {
+        "id": 9,
+        "question": "___ is in the classroom?",
+        "options": [
+          {"letter": "A", "text": "Who", "explanation": "Correct, asking person."},
+          {"letter": "B", "text": "What", "explanation": "Wrong, asking thing."},
+          {"letter": "C", "text": "Where", "explanation": "Wrong, asking place."},
+          {"letter": "D", "text": "Why", "explanation": "Wrong, asking reason."},
+          {"letter": "E", "text": "When", "explanation": "Wrong, asking time."}
+        ],
+        "correctAnswer": "A"
+      },
+      {
+        "id": 10,
+        "question": "___ are we meeting?",
+        "options": [
+          {"letter": "A", "text": "Who", "explanation": "Wrong, asking person."},
+          {"letter": "B", "text": "What", "explanation": "Wrong, asking thing."},
+          {"letter": "C", "text": "Where", "explanation": "Correct, asking place."},
+          {"letter": "D", "text": "Why", "explanation": "Wrong, asking reason."},
+          {"letter": "E", "text": "When", "explanation": "Could also be correct if asking time, depending on context."}
+        ],
+        "correctAnswer": "C"
+      }
+    ],
+    "Question Formation": [
+      {
+        "id": 1,
+        "question": "___ she like chocolate?",
+        "options": [
+          {"letter": "A", "text": "Do", "explanation": "Wrong, “do” does not match third person singular."},
+          {"letter": "B", "text": "Does", "explanation": "Correct, proper auxiliary for he/she/it."},
+          {"letter": "C", "text": "Is", "explanation": "Wrong, verb “to be” not used here."},
+          {"letter": "D", "text": "Did", "explanation": "Wrong, past tense."},
+          {"letter": "E", "text": "Has", "explanation": "Wrong, not applicable."}
+        ],
+        "correctAnswer": "B"
+      },
+      {
+        "id": 2,
+        "question": "___ they playing football now?",
+        "options": [
+          {"letter": "A", "text": "Are", "explanation": "Correct, forming present continuous question."},
+          {"letter": "B", "text": "Do", "explanation": "Wrong, present simple, not continuous."},
+          {"letter": "C", "text": "Does", "explanation": "Wrong, singular only."},
+          {"letter": "D", "text": "Is", "explanation": "Wrong, singular only."},
+          {"letter": "E", "text": "Have", "explanation": "Wrong, not applicable."}
+        ],
+        "correctAnswer": "A"
+      },
+      {
+        "id": 3,
+        "question": "___ you go to school yesterday?",
+        "options": [
+          {"letter": "A", "text": "Do", "explanation": "Wrong, present simple; question is past."},
+          {"letter": "B", "text": "Did", "explanation": "Correct, past simple question."},
+          {"letter": "C", "text": "Does", "explanation": "Wrong, singular present."},
+          {"letter": "D", "text": "Are", "explanation": "Wrong, present continuous."},
+          {"letter": "E", "text": "Was", "explanation": "Wrong, affirmative past, not interrogative."}
+        ],
+        "correctAnswer": "B"
+      },
+      {
+        "id": 4,
+        "question": "___ he like ice cream?",
+        "options": [
+          {"letter": "A", "text": "Do", "explanation": "Wrong, third person singular needs “does”."},
+          {"letter": "B", "text": "Does", "explanation": "Correct, proper auxiliary for present simple."},
+          {"letter": "C", "text": "Is", "explanation": "Wrong, verb “to be” not used here."},
+          {"letter": "D", "text": "Did", "explanation": "Wrong, past tense."},
+          {"letter": "E", "text": "Has", "explanation": "Wrong, not applicable."}
+        ],
+        "correctAnswer": "B"
+      },
+      {
+        "id": 5,
+        "question": "___ they coming to the party?",
+        "options": [
+          {"letter": "A", "text": "Are", "explanation": "Correct, forming present continuous question."},
+          {"letter": "B", "text": "Do", "explanation": "Wrong, present simple."},
+          {"letter": "C", "text": "Does", "explanation": "Wrong, singular only."},
+          {"letter": "D", "text": "Is", "explanation": "Wrong, singular only."},
+          {"letter": "E", "text": "Have", "explanation": "Wrong, not applicable."}
+        ],
+        "correctAnswer": "A"
+      },
+      {
+        "id": 6,
+        "question": "___ she finished her homework?",
+        "options": [
+          {"letter": "A", "text": "Do", "explanation": "Wrong, present simple; context is past."},
+          {"letter": "B", "text": "Did", "explanation": "Correct, past simple question."},
+          {"letter": "C", "text": "Does", "explanation": "Wrong, present singular."},
+          {"letter": "D", "text": "Is", "explanation": "Wrong, present continuous."},
+          {"letter": "E", "text": "Has", "explanation": "Could be correct if present perfect context, but original intent is past simple."}
+        ],
+        "correctAnswer": "B"
+      },
+      {
+        "id": 7,
+        "question": "___ you like this movie?",
+        "options": [
+          {"letter": "A", "text": "Do", "explanation": "Correct, present simple question for “you”."},
+          {"letter": "B", "text": "Does", "explanation": "Wrong, third person singular only."},
+          {"letter": "C", "text": "Is", "explanation": "Wrong, verb “to be” not used."},
+          {"letter": "D", "text": "Did", "explanation": "Wrong, past tense."},
+          {"letter": "E", "text": "Has", "explanation": "Wrong, not applicable."}
+        ],
+        "correctAnswer": "A"
+      },
+      {
+        "id": 8,
+        "question": "___ he studying now?",
+        "options": [
+          {"letter": "A", "text": "Is", "explanation": "Correct, forming present continuous question."},
+          {"letter": "B", "text": "Do", "explanation": "Wrong, present simple."},
+          {"letter": "C", "text": "Does", "explanation": "Wrong, singular present simple auxiliary."},
+          {"letter": "D", "text": "Are", "explanation": "Wrong, plural auxiliary."},
+          {"letter": "E", "text": "Has", "explanation": "Wrong, not applicable."}
+        ],
+        "correctAnswer": "A"
+      },
+      {
+        "id": 9,
+        "question": "___ they visit London last year?",
+        "options": [
+          {"letter": "A", "text": "Do", "explanation": "Wrong, present simple; context is past."},
+          {"letter": "B", "text": "Did", "explanation": "Correct, past simple question."},
+          {"letter": "C", "text": "Does", "explanation": "Wrong, present singular."},
+          {"letter": "D", "text": "Are", "explanation": "Wrong, present continuous."},
+          {"letter": "E", "text": "Was", "explanation": "Wrong, affirmative past, not question."}
+        ],
+        "correctAnswer": "B"
+      },
+      {
+        "id": 10,
+        "question": "___ she working on the project?",
+        "options": [
+          {"letter": "A", "text": "Is", "explanation": "Correct, present continuous question."},
+          {"letter": "B", "text": "Do", "explanation": "Wrong, present simple."},
+          {"letter": "C", "text": "Does", "explanation": "Wrong, third person singular present simple."},
+          {"letter": "D", "text": "Are", "explanation": "Wrong, plural auxiliary."},
+          {"letter": "E", "text": "Has", "explanation": "Wrong, not applicable."}
+        ],
+        "correctAnswer": "A"
+      }
+    ],
+    "JavaScript Vocabulary": [
+      {
+        "id": 1,
+        "question": "In JavaScript, which keyword declares a variable?",
+        "options": [
+          {"letter": "A", "text": "let", "explanation": "Correct, declares a variable."},
+          {"letter": "B", "text": "var", "explanation": "Correct, also declares a variable."},
+          {"letter": "C", "text": "const", "explanation": "Correct, declares a constant variable."},
+          {"letter": "D", "text": "All of them", "explanation": "Correct, all listed keywords declare variables."},
+          {"letter": "E", "text": "declare", "explanation": "Wrong, not a JavaScript keyword."}
+        ],
+        "correctAnswer": "D"
+      },
+      {
+        "id": 2,
+        "question": "What symbol is used for strict equality in JavaScript?",
+        "options": [
+          {"letter": "A", "text": "=", "explanation": "Wrong, assignment operator."},
+          {"letter": "B", "text": "==", "explanation": "Wrong, equality but not strict."},
+          {"letter": "C", "text": "===", "explanation": "Correct, strict equality operator."},
+          {"letter": "D", "text": ":=", "explanation": "Wrong, not used in JavaScript."},
+          {"letter": "E", "text": "!==", "explanation": "Wrong, strict inequality, not equality."}
+        ],
+        "correctAnswer": "C"
+      },
+      {
+        "id": 3,
+        "question": "Which of these is a JavaScript data type?",
+        "options": [
+          {"letter": "A", "text": "String", "explanation": "Correct, valid data type."},
+          {"letter": "B", "text": "Number", "explanation": "Correct."},
+          {"letter": "C", "text": "Boolean", "explanation": "Correct."},
+          {"letter": "D", "text": "Undefined", "explanation": "Correct."},
+          {"letter": "E", "text": "All of the above", "explanation": "Correct, all listed are valid JavaScript data types."}
+        ],
+        "correctAnswer": "E"
+      },
+      {
+        "id": 4,
+        "question": "What function shows a message in the browser console?",
+        "options": [
+          {"letter": "A", "text": "log()", "explanation": "Wrong, missing console object."},
+          {"letter": "B", "text": "print()", "explanation": "Wrong, not used in JavaScript."},
+          {"letter": "C", "text": "console.log()", "explanation": "Correct, displays messages in the console."},
+          {"letter": "D", "text": "alert()", "explanation": "Wrong, shows popup, not console message."},
+          {"letter": "E", "text": "show()", "explanation": "Wrong, not a JavaScript function."}
+        ],
+        "correctAnswer": "C"
+      },
+      {
+        "id": 5,
+        "question": "Which symbol is used for comments in JavaScript?",
+        "options": [
+          {"letter": "A", "text": "//", "explanation": "Correct, single-line comment."},
+          {"letter": "B", "text": "/* */", "explanation": "Wrong, invalid."},
+          {"letter": "C", "text": "", "explanation": "Wrong, HTML comment."},
+          {"letter": "D", "text": "##", "explanation": "Wrong, not JavaScript."},
+          {"letter": "E", "text": "%%", "explanation": "Wrong, not JavaScript."}
+        ],
+        "correctAnswer": "A"
+      },
+      {
+        "id": 6,
+        "question": "How do you declare a constant in JavaScript?",
+        "options": [
+          {"letter": "A", "text": "let", "explanation": "Wrong, allows reassignment."},
+          {"letter": "B", "text": "const", "explanation": "Correct, declares a constant variable."},
+          {"letter": "C", "text": "var", "explanation": "Wrong, allows reassignment and has function scope."},
+          {"letter": "D", "text": "constant", "explanation": "Wrong, not a keyword."},
+          {"letter": "E", "text": "define", "explanation": "Wrong, not a JavaScript keyword."}
+        ],
+        "correctAnswer": "B"
+      },
+      {
+        "id": 7,
+        "question": "Which operator is used for addition?",
+        "options": [
+          {"letter": "A", "text": "+", "explanation": "Correct, addition operator."},
+          {"letter": "B", "text": "-", "explanation": "Wrong, subtraction."},
+          {"letter": "C", "text": "*", "explanation": "Wrong, multiplication."},
+          {"letter": "D", "text": "/", "explanation": "Wrong, division."},
+          {"letter": "E", "text": "%", "explanation": "Wrong, modulo."}
+        ],
+        "correctAnswer": "A"
+      },
+      {
+        "id": 8,
+        "question": "How do you create an array in JavaScript?",
+        "options": [
+          {"letter": "A", "text": "[]", "explanation": "Correct, array literal."},
+          {"letter": "B", "text": "{}", "explanation": "Wrong, object literal."},
+          {"letter": "C", "text": "()", "explanation": "Wrong, used for function calls."},
+          {"letter": "D", "text": "array()", "explanation": "Wrong, not valid syntax."},
+          {"letter": "E", "text": "<>", "explanation": "Wrong, not JavaScript syntax."}
+        ],
+        "correctAnswer": "A"
+      },
+      {
+        "id": 9,
+        "question": "What does typeof do in JavaScript?",
+        "options": [
+          {"letter": "A", "text": "Returns the type of a variable", "explanation": "Correct."},
+          {"letter": "B", "text": "Converts a variable to string", "explanation": "Wrong, does not convert."},
+          {"letter": "C", "text": "Deletes a variable", "explanation": "Wrong, delete is used for that."},
+          {"letter": "D", "text": "Checks equality", "explanation": "Wrong, not equality operator."},
+          {"letter": "E", "text": "Declares a variable", "explanation": "Wrong, not declaration."}
+        ],
+        "correctAnswer": "A"
+      },
+      {
+        "id": 10,
+        "question": "Which method adds an item to the end of an array?",
+        "options": [
+          {"letter": "A", "text": "push()", "explanation": "Correct, adds item to end."},
+          {"letter": "B", "text": "pop()", "explanation": "Wrong, removes last item."},
+          {"letter": "C", "text": "shift()", "explanation": "Wrong, removes first item."},
+          {"letter": "D", "text": "unshift()", "explanation": "Wrong, adds item to start."},
+          {"letter": "E", "text": "append()", "explanation": "Wrong, not a JavaScript method."}
+        ],
+        "correctAnswer": "A"
+      }
+    ]
+  }
+}
